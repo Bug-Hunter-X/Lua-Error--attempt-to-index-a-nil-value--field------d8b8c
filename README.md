@@ -1,0 +1,1 @@
+This repository demonstrates a common Lua error: attempting to index a nil value. The error occurs when accessing a table field that might be missing.  The `bug.lua` file shows the erroneous code, while `bugSolution.lua` provides a corrected version using proper nil checks.
